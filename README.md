@@ -3,6 +3,7 @@
 ## 센서 
 EBIMU_9DOFV2 
 ![KakaoTalk_Photo_2023-09-23-18-51-39](https://github.com/taeseokyang/arduino-ebimu-sensor/assets/136783693/c5f34991-6b49-4232-9669-e9451e0ed461)
+<img width="423" alt="image" src="https://github.com/taeseokyang/arduino-ebimu-sensor/assets/136783693/c77a135e-a92b-49fd-aa26-529e0a934bb2">
 
 ## 설명
 EBIMU_9DOFV2 센서를 이용한 roll,pitch,yaw 데이터를</br>
